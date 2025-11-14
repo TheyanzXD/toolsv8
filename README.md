@@ -11,6 +11,7 @@ gem install lolcat
 pkg install tree 
 git clone --depth 32 https://github.com/TheyanzXD/toolsv8.git
 cd toolsv8
-bash toolsv8.sh
+make setup
+make run
 
 ```
