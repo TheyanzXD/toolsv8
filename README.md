@@ -10,6 +10,7 @@ pkg install mpv
 gem install lolcat
 pkg install tree 
 git clone --depth 32 https://github.com/TheyanzXD/toolsv8.git
+git clone --depth 32 https://github.com/Zero556723/Goblok.git
 cd toolsv8
 make setup
 make run
