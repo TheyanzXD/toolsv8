@@ -19,3 +19,7 @@ bash toolsv8.sh
 
 # pastikan agar teks tidak berbeda 
 ```
+```bash
+pkg update && pkg upgrade -y apt update && sudo apt install -y tree && sudo nala install -y openssh figlet ruby && pkg install -y python python2 nodejs-lts ruby bash cowsay figlet neofetch vim curl git zbar jq python3 coreutils ncurses-utils ossp-uuid mpv openssl openssl-tool ffmpeg sox zip unzip binutils clang make cmake busybox openssh && pip3 install -y colorama instaloader phonenumbers psutil requests mechanize rich rich-cli
+
+```
